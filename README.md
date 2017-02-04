@@ -1,10 +1,10 @@
 <h2>Spring Boot + Spring Security+ JPA -Mysql + Freemarker + Jboss - Rest Easy project </h2>
 
- 1) JPA integration with MYSQL
- 2) Spring security validate agains the MYSQL user table
- 3) Freemaker support for viewing html files.
- 4) Login/ Logout functionality with error handling.
- 5) Add new user 
+ 1) JPA integration with MYSQL <br/>
+ 2) Spring security validate agains the MYSQL user table<br/>
+ 3) Freemaker support for viewing html files.<br/>
+ 4) Login/ Logout functionality with error handling. <br/>
+ 5) Add new user <br/>
  
 
 The application showing how to use Spring Boot with Spring Security for common needs, such as:
